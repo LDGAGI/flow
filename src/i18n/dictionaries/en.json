@@ -1,0 +1,258 @@
+{
+  "header": {
+    "logo": "YouSeedance 2",
+    "nav": {
+      "features": "Features",
+      "comparison": "Comparison",
+      "useCases": "Use Cases",
+      "faq": "FAQ",
+      "freeTrial": "Free Trial"
+    },
+    "cta": "Try Seedance Free",
+    "langSwitch": "中文"
+  },
+  "hero": {
+    "badge": "Next-Gen AI Video Generation",
+    "title": "Create Stunning Videos with Seedance 2.0",
+    "subtitle": "Transform text and images into cinematic-quality videos in seconds. Powered by advanced AI with unmatched motion control, consistency, and resolution.",
+    "primaryCta": "Start Creating Free",
+    "secondaryCta": "Watch Demo",
+    "ctaLink": "https://youseedance2.com",
+    "trust": {
+      "users": "500K+ Creators",
+      "videos": "10M+ Videos Generated",
+      "rating": "4.9/5 Rating"
+    }
+  },
+  "features": {
+    "badge": "Key Features",
+    "title": "Key Features of Seedance 2.0",
+    "subtitle": "Powerful capabilities that make this the ultimate AI video generation platform.",
+    "items": [
+      {
+        "icon": "📦",
+        "title": "Multi Shot Storytelling",
+        "description": "Generate cohesive multi shot videos with seamless transitions. Maintains consistent characters and visual style across all scene changes."
+      },
+      {
+        "icon": "🎞️",
+        "title": "2K Resolution Quality",
+        "description": "Delivers up to 2K cinematic resolution with multiple aspect ratios. Create professional videos optimized for any platform."
+      },
+      {
+        "icon": "🔊",
+        "title": "Audio to Video Generation",
+        "description": "Upload your own audio tracks and get matching visuals instantly. Seedance 2.0 provides millisecond accurate lip sync and rhythm alignment."
+      },
+      {
+        "icon": "🖼️",
+        "title": "Image to Video Quality",
+        "description": "Transform photos into dynamic videos with superior consistency. Maintains facial features and visual style perfectly throughout."
+      },
+      {
+        "icon": "▶️",
+        "title": "Natural Motion Synthesis",
+        "description": "Creates fluid movements with exceptional physical realism. From subtle expressions to intense action sequences with perfect stability."
+      },
+      {
+        "icon": "🛡️",
+        "title": "Versatile Style Control",
+        "description": "Supports photorealistic, anime, stop motion, and custom artistic styles. Seedance 2.0 responds precisely to any creative direction."
+      }
+    ]
+  },
+  "comparison": {
+    "badge": "Head-to-Head",
+    "title": "Seedance 2.0 vs Other AI Video Generators",
+    "subtitle": "See how Seedance 2.0 compares to Sora, Kling, and Runway on the metrics that matter.",
+    "headers": ["Feature", "Seedance 2.0", "Sora", "Kling", "Runway"],
+    "rows": [
+      { "feature": "Max Resolution", "values": ["1080p", "1080p", "1080p", "4K"] },
+      { "feature": "Generation Speed", "values": ["~30s", "~120s", "~90s", "~90s"] },
+      { "feature": "Motion Quality", "values": ["★★★★★", "★★★★☆", "★★★★☆", "★★★★☆"] },
+      { "feature": "Text Adherence", "values": ["★★★★★", "★★★★★", "★★★★☆", "★★★☆☆"] },
+      { "feature": "Character Consistency", "values": ["★★★★★", "★★★★☆", "★★★☆☆", "★★★☆☆"] },
+      { "feature": "Image-to-Video", "values": ["✓", "✓", "✓", "✓"] },
+      { "feature": "Free Tier", "values": ["✓", "Limited", "✓", "Limited"] },
+      { "feature": "API Access", "values": ["✓", "✓", "✓", "✓"] }
+    ]
+  },
+  "useCases": {
+    "badge": "Applications",
+    "title": "What You Can Create with Seedance 2.0",
+    "subtitle": "From marketing to entertainment, Seedance 2.0 powers creative workflows across industries.",
+    "items": [
+      {
+        "icon": "📱",
+        "title": "Social Media Content",
+        "description": "Create scroll-stopping short videos for TikTok, Instagram Reels, and YouTube Shorts in minutes."
+      },
+      {
+        "icon": "🎥",
+        "title": "Marketing & Ads",
+        "description": "Produce professional product demos, explainer videos, and ad creatives without a production team."
+      },
+      {
+        "icon": "🎮",
+        "title": "Game & Concept Art",
+        "description": "Visualize game cinematics, character animations, and environment flythroughs from concept art."
+      },
+      {
+        "icon": "📚",
+        "title": "Education & Training",
+        "description": "Transform educational content into engaging visual narratives that improve retention."
+      },
+      {
+        "icon": "🎵",
+        "title": "Music Videos",
+        "description": "Generate stunning music video visuals synchronized to your audio tracks and creative vision."
+      },
+      {
+        "icon": "🏢",
+        "title": "Enterprise Presentations",
+        "description": "Elevate corporate presentations with dynamic video content that captures audience attention."
+      }
+    ]
+  },
+  "faq": {
+    "badge": "FAQ",
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about Seedance 2.0 AI video generation.",
+    "items": [
+      {
+        "question": "What is Seedance 2.0 and how does it work?",
+        "answer": "Seedance 2.0 is an advanced AI video generation platform that transforms text prompts and images into high-quality videos. It uses a state-of-the-art diffusion model trained on diverse video data to produce cinematic-quality output with precise motion control and visual consistency."
+      },
+      {
+        "question": "How does Seedance 2.0 compare to Sora and Kling?",
+        "answer": "Seedance 2.0 offers faster generation speeds (~30s vs 90-120s), superior character consistency across scenes, and more granular editing controls. While each platform has strengths, Seedance 2.0 provides the best balance of speed, quality, and creative control."
+      },
+      {
+        "question": "Is Seedance 2.0 free to use?",
+        "answer": "Yes, Seedance 2.0 offers a generous free tier that includes daily credits for video generation. Premium plans are available for higher volume usage, priority processing, and advanced features like API access."
+      },
+      {
+        "question": "What video formats and resolutions are supported?",
+        "answer": "Seedance 2.0 generates videos up to 1080p resolution in MP4 format. You can choose from multiple aspect ratios including 16:9, 9:16, 1:1, and 4:3 to suit different platforms and use cases."
+      },
+      {
+        "question": "Can I use Seedance 2.0 videos for commercial purposes?",
+        "answer": "Yes, all videos generated with Seedance 2.0 can be used for commercial purposes. You retain full rights to your generated content, making it ideal for marketing, advertising, and professional creative projects."
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Ready to Create Amazing Videos?",
+    "subtitle": "Join 500,000+ creators using Seedance 2.0 to bring their ideas to life.",
+    "primaryCta": "Start Creating Free",
+    "secondaryCta": "View Pricing",
+    "ctaLink": "https://youseedance2.com",
+    "trust": "No credit card required · Free daily credits · Cancel anytime"
+  },
+  "freeTrial": {
+    "meta": {
+      "title": "Free Trial - Seedance 2.0 Video Generation",
+      "description": "Try Seedance 2.0 AI video generation for free. Transform text and images into stunning videos."
+    },
+    "header": {
+      "logo": "YouSeedance 2",
+      "langSwitch": "中文"
+    },
+    "mobileWarning": "Please use a desktop browser",
+    "mobileWarningDesc": "The free trial experience is optimized for desktop screens.",
+    "panel": {
+      "model": "Model",
+      "prompt": "Prompt",
+      "promptPlaceholder": "Describe the video you want to generate... Use @1 @2 to reference uploaded files.",
+      "promptHint": "Use @1, @2... to reference uploaded images in your prompt.",
+      "upload": "Upload Files",
+      "aspectRatio": "Aspect Ratio",
+      "duration": "Duration",
+      "generate": "Generate Video",
+      "cancel": "Cancel"
+    },
+    "upload": {
+      "dropHint": "Drag & drop or click to upload",
+      "formats": "Images (JPG/PNG/WebP/GIF, 10MB) · Video (MP4/WebM, 2MB) · Audio (MP3/WAV, 2MB)"
+    },
+    "preview": {
+      "idle": "Generated video will appear here",
+      "generating": "Generating your video...",
+      "generatingHint": "Usually takes 30s ~ 3min",
+      "error": "Generation failed",
+      "retry": "Try Again"
+    },
+    "player": {
+      "download": "Download Video"
+    },
+    "history": {
+      "title": "History",
+      "empty": "No generation history yet",
+      "files": "Files"
+    },
+    "sessionModal": {
+      "title": "Set Up Session ID",
+      "stepLabel": "Step",
+      "steps": [
+        { "title": "Open Jimeng (jimeng.jianying.com)", "desc": "Go to the Jimeng website and log in to your account." },
+        { "title": "Open Developer Tools", "desc": "Press F12 or right-click → Inspect to open browser DevTools." },
+        { "title": "Find the Cookie", "desc": "Go to Application → Cookies → find the 'sessionid' value." },
+        { "title": "Copy & Paste", "desc": "Copy the sessionid value and paste it below." }
+      ],
+      "prev": "Previous",
+      "next": "Next",
+      "inputLabel": "Session ID",
+      "inputPlaceholder": "Paste your Jimeng sessionid here",
+      "inputHint": "Your session ID is stored locally and never sent to our servers.",
+      "save": "Save & Continue"
+    },
+    "settings": {
+      "title": "Settings",
+      "sessionLabel": "Jimeng Session ID",
+      "sessionPlaceholder": "Paste your sessionid",
+      "sessionHint": "Stored in your browser only.",
+      "save": "Save",
+      "clear": "Clear"
+    }
+  },
+  "footer": {
+    "brand": "YouSeedance 2",
+    "tagline": "Next-generation AI video creation platform.",
+    "columns": [
+      {
+        "title": "Product",
+        "links": [
+          { "label": "Features", "href": "#features" },
+          { "label": "Pricing", "href": "https://youseedance2.com/pricing" },
+          { "label": "API Docs", "href": "https://youseedance2.com/docs" },
+          { "label": "Changelog", "href": "https://youseedance2.com/changelog" }
+        ]
+      },
+      {
+        "title": "Resources",
+        "links": [
+          { "label": "Blog", "href": "https://youseedance2.com/blog" },
+          { "label": "Tutorials", "href": "https://youseedance2.com/tutorials" },
+          { "label": "Community", "href": "https://youseedance2.com/community" },
+          { "label": "Support", "href": "https://youseedance2.com/support" }
+        ]
+      },
+      {
+        "title": "Company",
+        "links": [
+          { "label": "About", "href": "https://youseedance2.com/about" },
+          { "label": "Careers", "href": "https://youseedance2.com/careers" },
+          { "label": "Privacy", "href": "https://youseedance2.com/privacy" },
+          { "label": "Terms", "href": "https://youseedance2.com/terms" }
+        ]
+      }
+    ],
+    "social": {
+      "twitter": "https://twitter.com/seedance",
+      "discord": "https://discord.gg/seedance",
+      "github": "https://github.com/seedance",
+      "youtube": "https://youtube.com/@seedance"
+    },
+    "copyright": "© 2025 Seedance. All rights reserved."
+  }
+}

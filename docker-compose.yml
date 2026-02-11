@@ -1,0 +1,9 @@
+services:
+  flow:
+    build: .
+    container_name: flow
+    restart: always
+    ports:
+      - "8880:7200"
+    env_file:
+      - .env.local
